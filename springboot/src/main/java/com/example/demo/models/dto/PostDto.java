@@ -3,6 +3,7 @@ package com.example.demo.models.dto;
 import com.example.demo.models.request.PostRequestD;
 import com.example.demo.models.response.PostResponseE;
 import lombok.Data;
+import org.springframework.web.multipart.MultipartFile;
 
 @Data
 public class PostDto {
