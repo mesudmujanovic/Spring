@@ -1,0 +1,1 @@
+{"ast":null,"code":"export const BASE_URL = 'http://localhost:8082';","map":{"version":3,"mappings":"AAAA,OAAO,MAAMA,QAAQ,GAAG,uBAAuB","names":["BASE_URL"],"sourceRoot":"","sources":["C:\\Desktop\\Ang\\project\\src\\app\\configs\\urls.config.ts"],"sourcesContent":["export const BASE_URL = 'http://localhost:8082';"]},"metadata":{},"sourceType":"module","externalDependencies":[]}
